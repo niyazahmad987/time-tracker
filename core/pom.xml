@@ -33,6 +33,6 @@
             <version>${spring.version}</version>
             <scope>test</scope>
         </dependency>
-        <!-- End Testingg -->
+        <!-- End Testing -->
     </dependencies>
 </project>
